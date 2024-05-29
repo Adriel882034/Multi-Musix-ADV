@@ -7,10 +7,10 @@ const { prefix } = require('./config.json');
 const nodes = [
     
   {
-    Host: us1.lavalink.creavite.co
-Port: 20080
-Password: "auto.creavite.co"
-Secure: false
+    Host : lavalink4.alfari.id
+Port : 443
+Password : "catfein"
+Secure : true
   },
 ];
 
