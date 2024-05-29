@@ -7,10 +7,10 @@ const { prefix } = require('./config.json');
 const nodes = [
     
   {
-    host : lavalink.gglvxd.eu.org
-Port : 443
-Password : "https://dsc.gg/idiotspawnpoint"
-Secure : true
+    Host: us1.lavalink.creavite.co
+Port: 20080
+Password: "auto.creavite.co"
+Secure: false
   },
 ];
 
