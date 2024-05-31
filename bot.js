@@ -7,13 +7,13 @@ const { prefix } = require('./config.json');
 const nodes = [
     
   {
-    Host : lavalink4.alfari.id
-Port : 443
-Password : "catfein"
-Secure : true
-  },
-];
+            host: "lava-v4.ajieblogs.eu.org",
+            password: "https://dsc.gg/ajidevserver",
+            port: 443,
+            secure: true
+        },
 
+    
 
 client.riffy = new Riffy(client, nodes, {
     send: (payload) => {
